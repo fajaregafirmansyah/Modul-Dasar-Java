@@ -1,4 +1,4 @@
-package BelajarInputOutput;
+package Belajar_Input_Output;
 
 import java.io.BufferedReader;
 import java.io.IOException;
